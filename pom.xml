@@ -18,7 +18,7 @@
 
     <groupId>com.metaring</groupId>
     <artifactId>platform-plugin-netbeans</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3-SNAPSHOT</version>
 
     <name>MetaRing NetBeans Plugin</name>
     <description>NetBeans Plugin for the MetaRing Platform</description>
@@ -42,7 +42,7 @@
     <scm>
         <url>https://github.com/metaring/platform-plugin-netbeans.git</url>
         <developerConnection>scm:git:git@github.com:metaring/platform-plugin-netbeans.git</developerConnection>
-        <tag>v1.0.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
