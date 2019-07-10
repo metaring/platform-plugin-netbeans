@@ -18,7 +18,7 @@
 
     <groupId>com.metaring</groupId>
     <artifactId>platform-plugin-netbeans</artifactId>
-    <version>1.0.4-SNAPSHOT</version>
+    <version>1.0.5-SNAPSHOT</version>
 
     <name>MetaRing NetBeans Plugin</name>
     <description>NetBeans Plugin for the MetaRing Platform</description>
